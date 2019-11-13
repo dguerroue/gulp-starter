@@ -13,12 +13,12 @@ yarn install
 yarn build || gulp build
 ```
 
-### 'Watch' le code sans serveur de développement
-```bash
-yarn watch || gulp watch
-```
-
 ### Lancer le serveur de développement
 ```bash
 yarn dev || gulp dev
+```
+
+### 'Watch' le code sans serveur de développement
+```bash
+yarn watch || gulp watch
 ```
