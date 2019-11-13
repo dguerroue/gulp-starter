@@ -1,0 +1,27 @@
+{
+  "name": "gulp-starter",
+  "version": "1.0.0",
+  "description": "A basic Gulp build system.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp watch",
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.12.8",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-pa11y": "0.0.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^1.5.3",
+    "gulp-watch": "^4.3.5",
+    "del": "^5.1.0"
+  }
+}
