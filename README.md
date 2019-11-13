@@ -3,7 +3,10 @@ gulp 4 starter kit
 
 ---
 
-## Commandes
+## Get started
+```bash
+yarn install
+```
 
 ### Compiler le code en production
 ```bash
